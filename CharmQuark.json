@@ -1,0 +1,23 @@
+    "schemes": [
+
+        {
+            "background" : "#272822",
+            "black" : "#000000",
+            "blue" : "#268BD2",
+            "brightBlack" : "#002B36",
+            "brightBlue" : "#AE81FF",
+            "brightCyan" : "#A6E22E",
+            "brightGreen" : "#80FF80",
+            "brightPurple" : "#6C71C4",
+            "brightRed" : "#DE8E30",
+            "brightWhite" : "#FDF6E3",
+            "brightYellow" : "#66D9EF",
+            "cyan" : "#A6E22E",
+            "foreground" : "#FFFFFF",
+            "green" : "#A6E22E",
+            "name" : "CharmQuark",
+            "purple" : "#AE81FF",
+            "red" : "#F92672",
+            "white" : "#C0C0C0",
+            "yellow" : "#66D9EF"
+        }
